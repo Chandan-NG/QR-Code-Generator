@@ -12,4 +12,4 @@ The tasks assigned on Day 1 included completing two hands-on codelabs: "Get star
 
 This project was entirely vibe coded, leveraging AI agents to design and implement a clean, single-page QR Code Generator using vanilla HTML, CSS, and JavaScript. Powered by the QRCode.js CDN, the application instantly generates QR codes for both URLs and plain text on button click or pressing Enter, clears previous results to prevent visual clutter, and exposes a PNG download option after rendering. It runs completely client-side, making it highly optimized for fast, serverless hosting on static platforms.
 
-**Live Website:** 
+**Live Website:** https://chandan-ng.github.io/QR-Code-Generator/
